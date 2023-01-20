@@ -1,0 +1,13 @@
+.container{
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(202, 154, 186);
+    height: 100%;
+    color:black;
+    align-items: center;
+    width:100%;
+    right: fit-content;
+    border: 3px solid rgb(171, 167, 189);
+
+    
+}
